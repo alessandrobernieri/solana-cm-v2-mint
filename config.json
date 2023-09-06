@@ -1,0 +1,7 @@
+{
+    "PrivateKey": "private keys here",
+    "APIEndpoint": "https://api.mainnet-beta.solana.com",
+    "MintAmount": 1,
+    "MaxPrice": 1,
+    "CandyAddress": "AyweTK2u4qNuygkPg9MC5B4rQkEyJqLn9fsHXz9R5qJC"
+}
