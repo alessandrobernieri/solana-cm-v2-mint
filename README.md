@@ -22,13 +22,13 @@ Before using this application, make sure you have the following prerequisites in
 1. Clone this GitHub repository to your local machine:
 
 ```bash
-git clone https://github.com/alessandrobernieri/cm-v2-mint.git
+git clone https://github.com/alessandrobernieri/solana-cm-v2-mint.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd cm-v2-mint
+cd solana-cm-v2-mint
 ```
 
 3. Install the required dependencies:
