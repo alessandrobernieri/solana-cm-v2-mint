@@ -1,4 +1,4 @@
-# Candy Machine NFT Minting CLI
+# Candy Machine v2 Minting CLI
 
 ## Overview
 
